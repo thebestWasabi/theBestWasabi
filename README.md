@@ -13,10 +13,11 @@ __Ключевые навыки:__
 7. Mapstruct
 8. Maven/Gradle
 9. Junit
-10. Mockito
-11. Docker
-12. Postman
-13. Git
+10. Postman
+11. Mockito
+12. Docker
+13. Linux
+14. Git
 ```
 <!--
 **thebestWasabi/theBestWasabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
